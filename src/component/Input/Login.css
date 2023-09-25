@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.red {
+    border: 2px solid red;
+  }
+  
+  .green {
+    border: 2px solid green;
+  }
